@@ -1,3 +1,12 @@
+/**************************************
+* Author: Mills McIlroy
+* Date: 01/22/2015
+* Description: This program cleans up user-entered
+phone numbers so that they can be sent SMS messages.
+****************************************/
+
+
+
 var PhoneNumber = function (numberIn) {
 
   this.numberIn = numberIn;
